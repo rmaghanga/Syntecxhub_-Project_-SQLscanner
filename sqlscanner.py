@@ -1,4 +1,4 @@
-import requests # pyright: ignore[reportMissingModuleSource]
+
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 import threading
 from queue import Queue
